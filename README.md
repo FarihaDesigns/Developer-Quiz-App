@@ -49,7 +49,7 @@ Here you get a command line interface
 put command to clone the files on your local computer
 
 ```git
-\$ git clone https://github.com/fahadhassan1213/Developer-Quiz-app.git 
+\$ git clone https://github.com/FarihaDesigns/Developer-Quiz-App.git
 ```
 Change and Customization
 ========================
